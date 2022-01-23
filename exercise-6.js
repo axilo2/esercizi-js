@@ -1,13 +1,16 @@
 function adultFilter(persons) {
-  let filtro = [];
-    for (p = 0; p < persons.lenght; p++) {
-      if (persons[p].age > 18)  {
-        filtro.push(persons[p])
-      }
-
+  let filter = 0;
+  for (let x = 0; x < persons.length; x++) {
+    if (persons[x].age >= 18){
+      result[filter] = persons[x];
+      filter++;
     }
-    return filtro
+    
+  }
+  return result;
 }
+
+const result = [];
 
 const persons = [
   { name: 'Paul', age: 16 },
