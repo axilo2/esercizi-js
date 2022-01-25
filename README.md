@@ -1,4 +1,3 @@
-# Variables Declarations - Exercise 1
-In questo esercizio si sta cercando di far stampare la frase "Paul plays football", ma se si esegue il codice si noterà l'errore "**personName is not defined**".
-
-Cosa occorre fare per fixare l'errore?
+# Optional Chaining - Exercise 2
+In questo esempio si sta cercando di controllare se è stato specificato un valore per la proprietà `city`, tuttavia il codice si presenta in maniera poco leggibile.
+Come si può migliorare e semplificare il codice d'esempio?
