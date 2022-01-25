@@ -1,4 +1,7 @@
-# Variables Declarations - Exercise 1
-In questo esercizio si sta cercando di far stampare la frase "Paul plays football", ma se si esegue il codice si noterà l'errore "**personName is not defined**".
+# Array Methods - Exercise 2
+Implementare la funzione `nicknameMap` che, dato un array di persone, crea un array di nickname. Il nickname deve essere formato in questa modo: `<name>-<age>`.
 
-Cosa occorre fare per fixare l'errore?
+Esempio:
+```
+{ name: 'Paul', age: 21 } => Paul-21
+```
