@@ -1,4 +1,8 @@
-# Variables Declarations - Exercise 1
-In questo esercizio si sta cercando di far stampare la frase "Paul plays football", ma se si esegue il codice si noterà l'errore "**personName is not defined**".
+# Object Methods - Exercise 2
+Utilizzando l'oggetto `person` stampare in console i suoi valori nel seguente modo utilizzando il metodo `Object.values`:
 
-Cosa occorre fare per fixare l'errore?
+```
+Mario
+Rossi
+25
+```
